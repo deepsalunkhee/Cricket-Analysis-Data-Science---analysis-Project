@@ -1,3 +1,6 @@
+### Note:
+- This repo was created when I was exploring the relmes of Data Science as at this moment I dont plan on working on this repo so I am archiving it ✌🏽.
+
 # Cricket-Analysis-Data-Science---analysis-Project
 
 Hello, connections 👋,
